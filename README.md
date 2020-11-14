@@ -9,4 +9,4 @@
 - Download the entire code 
 - Open up the index.html in your browser.
 
-Inspired by Code Spot. You can check the video [here](https://www.youtube.com/watch?v=Gp2bUX7_WIg&t=480s&ab_channel=TrueCoder)
+Inspired by Code Spot. You can check the video [here](https://www.youtube.com/watch?v=Gp2bUX7_WIg&t=480s&ab_channel=TrueCoder).
